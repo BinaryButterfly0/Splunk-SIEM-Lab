@@ -1,4 +1,6 @@
 # 🔐 Splunk SIEM Project – Security Log Analysis & Dashboards
+![Uploading Splunk SIEM.png…]()
+
 
 ## 📌 Overview
 This project showcases my hands-on experience with **Splunk for Security Information and Event Management (SIEM)**.  
