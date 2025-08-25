@@ -1,5 +1,7 @@
 # 🔐 Splunk SIEM Project – Security Log Analysis & Dashboards
 
+![alt text](<Dashboard captures/Splunk SIEM.png>)
+
 ## 📌 Overview
 This project showcases my hands-on experience with **Splunk for Security Information and Event Management (SIEM)**.  
 I ingested multiple datasets (SSH, HTTP, and Linux authentication logs) into Splunk, wrote SPL queries for analysis, and built dashboards to detect suspicious activity such as brute force attempts, unauthorized access, and abnormal web traffic.
