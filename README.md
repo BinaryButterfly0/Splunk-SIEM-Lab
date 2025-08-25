@@ -1,6 +1,4 @@
 # 🔐 Splunk SIEM Project – Security Log Analysis & Dashboards
-![Uploading Splunk SIEM.png…]()
-
 
 ![alt text](<Dashboard captures/Splunk SIEM.png>)
 
